@@ -1,5 +1,5 @@
 {
-  "name": "daggerhart/openid-connect-generic",
+  "name": "limix/custom-contact-form",
   "type": "wordpress-plugin",
   "license": "GPL-2.0-only",
   "require": {
